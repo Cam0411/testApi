@@ -1,0 +1,18 @@
+{
+    "cost":[
+        {
+            "id":1,
+            "name":"cam"
+        }, 
+        {
+             "title":"arcane",
+             "about":"Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions. Hailee Steinfeld and Kevin Alejandro lend voices to this immersive series based on the lore of Riot Games'"
+        }
+    ],
+    "flims":[
+        {
+            "id":"spiderman no way home"
+        }
+    ]
+}
+
